@@ -7,7 +7,7 @@ package ejemplo01;
 
 /**
  *
- * @author reroes
+ * @author TaisBalcazar
  */
 public class Ejemplo01 {
 
